@@ -10,4 +10,6 @@ This is about the data science job trend in India. A deep analysis based on the 
 4. selenium
 
 ## Analysis Overview
-![](Images/Capture1.JPG)  ![](Images/Capture2.JPG)
+
+<img src="Images/Capture1.JPG" width=100>
+
