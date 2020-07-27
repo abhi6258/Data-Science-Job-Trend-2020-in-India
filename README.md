@@ -11,5 +11,6 @@ This is about the data science job trend in India. A deep analysis based on the 
 
 ## Analysis Overview
 
-<img src="Images/Capture1.JPG" width=400>  <img src="Images/Capture2.JPG" width=400 height=200>
+<img src="Images/Capture1.JPG" width=400>
+<img src="Images/Capture2.JPG" width=400>
 
